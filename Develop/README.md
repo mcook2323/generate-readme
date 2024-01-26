@@ -29,4 +29,4 @@ This project is licensed under the [Apache](https://img.shields.io/badge/License
   * Github profile: mccook2323
   * Email Address: mattcook2323@gmail.com
 
-![Alt Text](file:///Users/mattcook2323/Downloads/Generate%20README_%20Jan%2026,%202024%202_34%20PM.gif)
+![Generate README_ Jan 26, 2024 2_34 PM.webm](https://github.com/mcook2323/generate-readme/assets/140772737/0eaf62ff-5b0e-438d-9a51-ff7ed8fb49ad)
