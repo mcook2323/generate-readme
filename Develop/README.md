@@ -1,5 +1,5 @@
 # Generate README
-
+[Apache](https://img.shields.io/badge/License-Apache-yellow.svg)
   ## Table of contents
   * [Description](#Description)
   * [Installation](#Installatiton)
@@ -9,19 +9,22 @@
   * [Tests](#Tests)
   * [Questions](#Questions)
   
+ * [License](#license)
+
   # Description
-  n/a
+  Use this tool to auto Generate a README fille
   ## Installation
-  n/a
+  using Node
   ## Usage
-  n/a
+  utilize nodejs in the terminal
   ## License
-  N/A
+  Apache
   ## Contributing
-  n/a
+  mcook2323
   ## Tests
-  n/a
-  
+  N/A
+  ## License
+This project is licensed under the [Apache](https://img.shields.io/badge/License-Apache-yellow.svg)
   ## Questions
-  * Github profile: n/a
-  * Email Address: n/a
+  * Github profile: mccook2323
+  * Email Address: mattcook2323@gmail.com
